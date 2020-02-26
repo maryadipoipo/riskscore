@@ -6,7 +6,43 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
-
-    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_first_fragment">Hello first scroll view</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="facility_name">Nama fasilitas</string>
+    <string name="patient_name">Nama pasien</string>
+    <string name="patient_address">Alamat</string>
+    <string name="score_question"> Risk Score Questions </string>
+    <string name="calculate">Calculate Scor</string>
+    <string name="ya">Ya</string>
+    <string name="tdk">Tidak</string>
+    <string name="q1">1. Usia ibu terlalu muda (&lt; 16 tahun)</string>
+    <string name="q2a">2. &#160;&#160;a Kehamilan terlalu lama (setelah &gt; 4 tahun menikah)</string>
+    <string name="q2b">&#160;b. Kehamilan pertama terlalu tua (&gt; 35 tahun)</string>
+    <string name="q3">3. Jarak kehamilan terlalu dekat (&lt; 2 tahun)</string>
+    <string name="q4">4. Jarak kehamilan terlalu jauh (&gt; 10 tahun)</string>
+    <string name="q5">5. Terlalu banyak anak (&gt; 4 anak)</string>
+    <string name="q6">6. Usia ibu terlalu tua (&gt; 35 tahun)</string>
+    <string name="q7">7. Tinggi badan ibu kurang (&lt; 145cm)</string>
+    <string name="q8">8. Pernah gagal kehamilan</string>
+    <string name="q9">9. Pernah melahirkan dengan</string>
+    <string name="q9a">a. Tarikan tang/vakum</string>
+    <string name="q9b">b. Uri dirogoh</string>
+    <string name="q9c">c. Diberi infus atau transfusi</string>
+    <string name="q10">10. Pernah operasi sesar</string>
+    <string name="q11">11. Penyakit pada ibu hamil :</string>
+    <string name="q11a">a. Anemia | b. Malaria</string>
+    <string name="q11b">c. TB paru | d. Payah/gagal jantung</string>
+    <string name="q11c">e. Kencing manis/diabetes</string>
+    <string name="q11d">f. Penyakit menular seksual</string>
+    <string name="q12">12. Bengkak pada muka dan tungkai dan tekanan darah tinggi</string>
+    <string name="q13">13. Hamil kembar 2 atau lebih</string>
+    <string name="q14">14. Hamil kembar air (Hydramnion)</string>
+    <string name="q15">15. Bayi mati dalam kandungan</string>
+    <string name="q16">16. Kehamilan lebih bulan</string>
+    <string name="q17">17. Letak sungsang</string>
+    <string name="q18">18. Letak lintang</string>
+    <string name="q19">19. Pendarahan dalam kehamilan ini</string>
+    <string name="q20">20. Preeklampsia berat/kejang-kejang</string>
+
 </resources>
